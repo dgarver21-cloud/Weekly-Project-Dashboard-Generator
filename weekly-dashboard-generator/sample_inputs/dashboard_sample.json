@@ -1,0 +1,139 @@
+{
+  "project_summary": {
+    "project_name": "Sample Implementation Project",
+    "project_manager": "Project Manager",
+    "project_sponsor": "Executive Sponsor",
+    "report_date": "October 10, 2025",
+    "go_live_date": "April 3, 2026",
+    "project_status": "The sample project is progressing through configuration and design. The next focus is completing validation activities and preparing for user acceptance testing."
+  },
+  "raid_items": [
+    {
+      "type": "Risk",
+      "title": "Stakeholder availability",
+      "latest_update": "Limited stakeholder availability may slow decisions.",
+      "description": "Stakeholder availability\nStatus: Limited availability may slow design decisions and approvals.",
+      "priority": "High",
+      "status": "In Progress",
+      "assigned": "Client Team",
+      "due_date": "2025-10-17",
+      "last_updated": "2025-10-10",
+      "source": "Sanitized Sample",
+      "reference_link": "",
+      "attachments": ""
+    },
+    {
+      "type": "Risk",
+      "title": "Configuration inputs",
+      "latest_update": "Required configuration inputs remain outstanding.",
+      "description": "Configuration inputs\nStatus: Outstanding configuration inputs may delay setup or cause rework.",
+      "priority": "High",
+      "status": "In Progress",
+      "assigned": "Client Team",
+      "due_date": "2025-10-17",
+      "last_updated": "2025-10-10",
+      "source": "Sanitized Sample",
+      "reference_link": "",
+      "attachments": ""
+    },
+    {
+      "type": "Action",
+      "title": "Testing preparation",
+      "latest_update": "Test cases and training materials require validation.",
+      "description": "Testing preparation\nStatus: The team is validating test cases and training materials before UAT.",
+      "priority": "Normal",
+      "status": "Ready for UAT",
+      "assigned": "Project Team",
+      "due_date": "2025-10-31",
+      "last_updated": "2025-10-10",
+      "source": "Sanitized Sample",
+      "reference_link": "",
+      "attachments": ""
+    },
+    {
+      "type": "Issue",
+      "title": "Integration field mapping",
+      "latest_update": "The required interface fields are being confirmed.",
+      "description": "Integration field mapping\nStatus: The team is confirming required fields for the sample integration.",
+      "priority": "High",
+      "status": "Client Review",
+      "assigned": "Project Team",
+      "due_date": "2025-10-24",
+      "last_updated": "2025-10-10",
+      "source": "Sanitized Sample",
+      "reference_link": "",
+      "attachments": ""
+    },
+    {
+      "type": "Action",
+      "title": "Account mapping",
+      "latest_update": "The revised account mapping is under review.",
+      "description": "Account mapping\nStatus: The project team is reviewing the revised account mapping.",
+      "priority": "High",
+      "status": "In Progress",
+      "assigned": "Project Team",
+      "due_date": "2025-10-17",
+      "last_updated": "2025-10-10",
+      "source": "Sanitized Sample",
+      "reference_link": "",
+      "attachments": ""
+    }
+  ],
+  "deliverables": [
+    {
+      "name": "Account Structure Design",
+      "owner": "Project Team",
+      "state": "Active",
+      "start_date": "2025-09-15",
+      "end_date": "2025-10-24",
+      "level": 2,
+      "source": "Sanitized Sample",
+      "percent_complete": 75,
+      "status": "In Progress"
+    },
+    {
+      "name": "Application Configuration",
+      "owner": "Implementation Team",
+      "state": "Active",
+      "start_date": "2025-09-29",
+      "end_date": "2025-11-14",
+      "level": 2,
+      "source": "Sanitized Sample",
+      "percent_complete": 45,
+      "status": "In Progress"
+    },
+    {
+      "name": "Integration Design",
+      "owner": "Technical Team",
+      "state": "Active",
+      "start_date": "2025-10-06",
+      "end_date": "2025-10-31",
+      "level": 2,
+      "source": "Sanitized Sample",
+      "percent_complete": 35,
+      "status": "In Progress"
+    },
+    {
+      "name": "Data Conversion Validation",
+      "owner": "Project Team",
+      "state": "Active",
+      "start_date": "2025-10-13",
+      "end_date": "2025-11-21",
+      "level": 2,
+      "source": "Sanitized Sample",
+      "percent_complete": 10,
+      "status": "At Risk"
+    },
+    {
+      "name": "UAT and Training Preparation",
+      "owner": "Client Team",
+      "state": "Active",
+      "start_date": "2025-10-20",
+      "end_date": "2025-11-14",
+      "level": 2,
+      "source": "Sanitized Sample",
+      "percent_complete": 0,
+      "status": "Upcoming"
+    }
+  ]
+}
