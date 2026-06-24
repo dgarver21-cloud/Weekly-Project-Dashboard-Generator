@@ -18,6 +18,12 @@ The ADI List remains the source of truth for RAID items. Clarizen remains the
 source of truth for deliverables. Transcript content only suggests a Project
 Status narrative and review items.
 
+## Live App
+
+The Weekly Project Dashboard Generator is currently deployed here:
+
+https://weekly-project-dashboard-generator-p426jjblqm9e2wg3qjicau.streamlit.app/
+
 ## Local Setup
 
 Open Windows PowerShell in the project folder.
